@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a065531-4ac5-4a2c-9cbf-24ecca45e2d2" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="6a065531-4ac5-4a2c-9cbf-24ecca45e2d2" name="Default" comment="" />
     <ignored path="QA-Java-Automation_Code_Challenge_7_Stub.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -500,7 +498,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1929" y="154" width="1938" height="1048" extended-state="6" />
+    <frame x="-1929" y="154" width="1938" height="1048" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
